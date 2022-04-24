@@ -11,7 +11,7 @@ Working hard to turn my passion in my profession.
 ![alt text](https://github.com/FuryAndRage/FuryAndRage/blob/master/img/1.gif "Installing drywall during the day") ![](https://github.com/FuryAndRage/FuryAndRage/blob/master/img/2.gif "Coding at night") -->
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FuryAndRage&count_private=true&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MoisesHDAndrade&count_private=true&show_icons=true)
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MoisesHDAndrade)](https://github.com/anuraghazra/github-readme-stats) -->
 
 
