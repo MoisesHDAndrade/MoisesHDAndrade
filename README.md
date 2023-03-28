@@ -1,7 +1,10 @@
 # Hello Human 👋
 
-I’m Moises, a hobbyist software developer that always love to learn something new. <br>
-Working hard to turn my passion in my profession.
+About Me:
+
+I'm a leading hand in the construction industry with a passion for software development. I have experience working with Python, Django, Flask, JavaScript, Vue, SQL, Linux, Git, HTML, CSS, and Bootstrap. My goal is to turn my passion for software development into a full-time profession, and I am dedicated to learning and working hard to achieve that goal.
+
+In my free time, I enjoy reading about technology and staying up to date with the latest industry trends. I am always looking for new opportunities to collaborate with other developers and work on exciting projects. If you're interested in connecting, feel free to reach out to me!
 <!-- ##### Working to turn a passion into a profession -->
 
 
