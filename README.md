@@ -2,7 +2,7 @@
 
 About Me:
 
-As a Project Supervisor in the construction industry, I bring a unique blend of hands-on leadership and a deep passion for software development. My technical expertise spans Python, Django, Flask, JavaScript, Vue, SQL, Linux, Git, HTML, CSS, and Bootstrap. I’m committed to transitioning my passion for software development into a full-time career, continuously learning and honing my skills to achieve this goal.
+As a Project Supervisor in the construction industry, I bring a unique blend of hands-on leadership and a deep passion for software development. My technical expertise spans Python, Django, Flask, JavaScript, Vue, SQL, Linux, Git, HTML, CSS, and Bootstrap.
 
 In my free time, I immerse myself in the latest technology trends and enjoy reading about advancements in the industry. I’m always eager to collaborate with fellow developers on innovative projects. If you’re interested in connecting or working together, feel free to reach out!
 <!-- ##### Working to turn a passion into a profession -->
