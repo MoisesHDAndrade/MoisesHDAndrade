@@ -2,9 +2,9 @@
 
 About Me:
 
-I'm a leading hand in the construction industry with a passion for software development. I have experience working with Python, Django, Flask, JavaScript, Vue, SQL, Linux, Git, HTML, CSS, and Bootstrap. My goal is to turn my passion for software development into a full-time profession, and I am dedicated to learning and working hard to achieve that goal.
+As a Project Supervisor in the construction industry, I bring a unique blend of hands-on leadership and a deep passion for software development. My technical expertise spans Python, Django, Flask, JavaScript, Vue, SQL, Linux, Git, HTML, CSS, and Bootstrap. I’m committed to transitioning my passion for software development into a full-time career, continuously learning and honing my skills to achieve this goal.
 
-In my free time, I enjoy reading about technology and staying up to date with the latest industry trends. I am always looking for new opportunities to collaborate with other developers and work on exciting projects. If you're interested in connecting, feel free to reach out to me!
+In my free time, I immerse myself in the latest technology trends and enjoy reading about advancements in the industry. I’m always eager to collaborate with fellow developers on innovative projects. If you’re interested in connecting or working together, feel free to reach out!
 <!-- ##### Working to turn a passion into a profession -->
 
 
