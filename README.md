@@ -1,40 +1,38 @@
-# Hello Human 👋
+# 👋 Hello, Human  
 
-About Me:
+### 👷 About Me  
+I’m a **Project Supervisor in the construction industry** with a strong passion for **software development**.  
+My work blends **hands-on leadership** with the ability to design and build digital solutions that solve real-world problems.  
 
-As a Project Supervisor in the construction industry, I bring a unique blend of hands-on leadership and a deep passion for software development. My technical expertise spans Python, Django, Flask, JavaScript, Vue, SQL, Linux, Git, HTML, CSS, and Bootstrap.
+🔧 **Tech Stack**: Python | Django | Flask | JavaScript | Vue | SQL | Linux | Git | HTML | CSS | Bootstrap  
 
-In my free time, I immerse myself in the latest technology trends and enjoy reading about advancements in the industry. I’m always eager to collaborate with fellow developers on innovative projects. If you’re interested in connecting or working together, feel free to reach out!
-<!-- ##### Working to turn a passion into a profession -->
+Outside of work, I’m always exploring **new technologies**, reading about **industry trends**, and collaborating on **innovative projects**.  
+If you’re interested in connecting or building something together, let’s talk!  
 
+---
 
+### 📊 GitHub Stats  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MoisesHDAndrade&layout=compact)](https://github.com/anuraghazra/github-readme-stats)  
+![Moises's GitHub stats](https://github-readme-stats.vercel.app/api?username=MoisesHDAndrade&count_private=true&show_icons=true&theme=default)  
 
+---
 
-<!-- ###### Drywall installer and web developer on my free time
-![alt text](https://github.com/FuryAndRage/FuryAndRage/blob/master/img/1.gif "Installing drywall during the day") ![](https://github.com/FuryAndRage/FuryAndRage/blob/master/img/2.gif "Coding at night") -->
-
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MoisesHDAndrade&count_private=true&show_icons=true)
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MoisesHDAndrade)](https://github.com/anuraghazra/github-readme-stats) -->
-
-
-
+### 🛠️ Tools & Technologies  
 <div>
-
-<img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-<img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg">
-<img align="center" height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg">
-<img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-<img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg">
-<img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg">
-<img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
-<img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-<img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-plain.svg">
-<img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
- 
+  <img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+  <img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg">
+  <img align="center" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg">
+  <img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+  <img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg">
+  <img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg">
+  <img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
+  <img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+  <img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-plain.svg">
+  <img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
 </div>
 
-#### 💼 My Projects
-👍 Recently I've been working in some cool stuffs like :<br>
-[Nova Genesis](https://novagenesis.co.nz) a timesheet manager ⌚ <br>
-[Fletnix](https://github.com/FuryAndRage/Fletnix) a media manager netflix like 🎞️
+---
+
+### 💼 Featured Projects  
+- [**Nova Genesis**](https://novagenesis.co.nz) → A smart **timesheet manager** ⌚  
+- [**Fletnix**](https://github.com/FuryAndRage/Fletnix) → A **Netflix-like media manager** 🎞️  
